@@ -11,3 +11,4 @@ const Box = ({value,onClick}) => {
 }
 
 export default Box
+
